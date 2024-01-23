@@ -1,0 +1,13 @@
+Epoch [1/5], Training finished
+Epoch [1/5], Validation Loss: 0.9853, Validation Accuracy: 0.6802
+Epoch [2/5], Training finished
+Epoch [2/5], Validation Loss: 0.9559, Validation Accuracy: 0.6851
+Epoch [3/5], Training finished
+Epoch [3/5], Validation Loss: 0.9502, Validation Accuracy: 0.6846
+Epoch [4/5], Training finished
+Epoch [4/5], Validation Loss: 1.0059, Validation Accuracy: 0.6932
+Epoch [5/5], Training finished
+Epoch [5/5], Validation Loss: 0.9796, Validation Accuracy: 0.6997
+Test Loss: 0.9413, Test Accuracy: 0.7074, Precision: 0.6953, Recall: 0.7074, F1 Score: 0.6971
+
+Run time 20:48:57
